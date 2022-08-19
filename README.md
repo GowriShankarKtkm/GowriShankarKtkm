@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GowriShankarKtkm
-- 👀 I’m interested in codig and java development 
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on java developers,coders
+- 👀 I’m interested in codig and java and Pega development 
+- 🌱 I’m currently learning java,Pega
+- 💞️ I’m looking to collaborate on java developers, Pega developer 
 - 📫 How to reach me email:gshankartkm@gmail.com
 
 <!---
